@@ -1,1 +1,5 @@
 Initial project
+
+Adding a branch: branch1
+
+Changing master branch
